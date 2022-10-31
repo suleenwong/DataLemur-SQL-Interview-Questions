@@ -1,10 +1,12 @@
 # Data Lemur SQL interview questions
 
+![](/assets/coverimage.png)
 
 ## Overview
 
 This repository contains my solutions to the SQL interview questions on [DataLemur](https://datalemur.com/sql-interview-questions) website. The solutions are written in PostgreSQL.
 
+<br>
 
 ## Content
 
@@ -77,5 +79,5 @@ The description of each column in the table below is given as follows:
 | 03 | [User Shopping Sprees](https://datalemur.com/questions/amazon-shopping-spree) | [Solution](01_SCRIPTS/Hard/03_hard_amazon_user_shopping_sprees.sql)
 | 04 | [Monthly Merchant Balance](https://datalemur.com/questions/sql-monthly-merchant-balance) | [Solution](01_SCRIPTS/Hard/04_hard_visa_monthly_merchant_balance.sql)
 | 05 | [Bad Delivery Rate](https://datalemur.com/questions/sql-bad-experience) | [Solution](01_SCRIPTS/Hard/05_hard_doordash_bad_delivery_rate.sql)
-| 06 | []() | [Solution](01_SCRIPTS/Hard) --> -->
+| 06 | []() | [Solution](01_SCRIPTS/Hard) -->
 
