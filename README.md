@@ -44,4 +44,43 @@ The description of each column in the table below is given as follows:
 | Facebook | [App Click-through Rate (CTR)](https://datalemur.com/questions/sql-app-ctr) | Easy | [Solution](Easy/sql-app-ctr.sql)
 | TikTok | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | Easy | [Solution](Easy/second-day-confirmation.sql)
 
+<br>
+
+### **Medium challenges**
+| Company | Title | Difficulty | Solution Link |
+|------------|------------------------|------------|-----------|
+| Uber | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | Medium | [Solution](Medium/sql-third-transaction.sql)
+| Accenture | [Compensation Outliers](https://datalemur.com/questions/compensation-outliers) | Medium | [Solution](Medium/compensation-outliers.sql)
+| Snapchat | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | Medium | [Solution](Medium/time-spent-snaps.sql)
+| Twitter | [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets) | Medium | [Solution](Medium/rolling-average-tweets.sql)
+| Google | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements) | Medium | [Solution](Medium/odd-even-measurements.sql)
+| Amazon | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing) | Medium | [Solution](Medium/sql-highest-grossing.sql)
+| Etsy | [First Transaction](https://datalemur.com/questions/sql-first-transaction) | Medium | [Solution](Medium/sql-first-transaction.sql)
+| LinkedIn | [LinkedIn Power Creators (Part 2)](https://datalemur.com/questions/linkedin-power-creators-part2) | Medium | [Solution](Medium/linkedin-power-creators-part2.sql)
+| Spotify | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank) | Medium | [Solution](Medium/top-fans-rank.sql)
+| TikTok | [Signup Confirmation Rate](https://datalemur.com/questions/signup-confirmation-rate) | Medium | [Solution](Medium/signup-confirmation-rate.sql)
+| Accenture | [Fill Missing Client Data](https://datalemur.com/questions/fill-missing-product) | Medium | [Solution](Medium/fill-missing-product.sql)
+| Google | [Consulting Bench Time](https://datalemur.com/questions/consulting-bench-time) | Medium | [Solution](Medium/consulting-bench-time.sql)
+| Spotify | [Spotify Streaming History](https://datalemur.com/questions/spotify-streaming-history) | Medium | [Solution](Medium/spotify-streaming-history.sql)
+| Etsy | [Same Week Purchases](https://datalemur.com/questions/same-week-purchases) | Medium | [Solution](Medium/same-week-purchases.sql)
+| Google | [Invalid Search Results](https://datalemur.com/questions/invalid-search-pct) | Medium | [Solution](Medium/invalid-search-pct.sql)
+| PayPal | [Unique Money Transfer Relationships](https://datalemur.com/questions/money-transfer-relationships) | Medium | [Solution](Medium/money-transfer-relationships.sql)
+| Stitch Fix | [Repeat Purchases on Multiple Days](https://datalemur.com/questions/sql-repeat-purchases) | Medium | [Solution](Medium/sql-repeat-purchases.sql)
+| Amazon | [Cumulative Purchases by Product Type](https://datalemur.com/questions/sql-purchasing-activity) | Medium | [Solution](Medium/sql-purchasing-activity.sql)
+| Adobe | [Photoshop Revenue Analysis](https://datalemur.com/questions/photoshop-revenue-analysis) | Medium | [Solution](Medium/photoshop-revenue-analysis.sql)
+| Amazon | [User Shopping Sprees](https://datalemur.com/questions/amazon-shopping-spree) | Medium | [Solution](Medium/amazon-shopping-spree.sql)
+
+
+<br>
+
+### **Hard challenges**
+| Company | Title | Difficulty | Solution Link |
+|------------|------------------------|------------|-----------|
+| Facebook | [Active User Retention](https://datalemur.com/questions/user-retention) | Hard | [Solution](Hard/user-retention.sql)
+| Wayfair | [Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate) | Hard | [Solution](Hard/yoy-growth-rate.sql)
+| Visa | [Monthly Merchant Balance](https://datalemur.com/questions/sql-monthly-merchant-balance) | Hard | [Solution](Hard/sql-monthly-merchant-balance.sql)
+| DoorDash | [Bad Delivery Rate](https://datalemur.com/questions/sql-bad-experience) | Hard | [Solution](Hard/sql-bad-experience.sql)
+| Airbnb | [Matching Rental Amenities](https://datalemur.com/questions/sql-bad-experience) | Hard | [Solution](Hard/sql-bad-experience.sql)
+| Stripe | [Repeated Payments](https://datalemur.com/questions/repeated-payments) | Hard | [Solution](Hard/repeated-payments.sql)
+
 
