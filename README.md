@@ -45,6 +45,7 @@ The description of each column in the table below is given as follows:
 | TikTok | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | Easy | [Solution](Easy/second-day-confirmation.sql)
 | UnitedHealth | [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers) | Easy | [Solution](Easy/frequent-callers.sql)
 | UnitedHealth | [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | Easy | [Solution](Easy/uncategorized-calls-percentage.sql)
+| Alibaba | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean) | Easy | [Solution](Easy/alibaba-compressed-mean.sql)
 
 
 <br>
