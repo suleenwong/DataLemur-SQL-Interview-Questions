@@ -46,6 +46,9 @@ The description of each column in the table below is given as follows:
 | UnitedHealth | [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers) | Easy | [Solution](Easy/frequent-callers.sql)
 | UnitedHealth | [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | Easy | [Solution](Easy/uncategorized-calls-percentage.sql)
 | Alibaba | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean) | Easy | [Solution](Easy/alibaba-compressed-mean.sql)
+| CVS Health | [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs) | Easy | [Solution](Easy/top-profitable-drugs.sql)
+| CVS Health | [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs) | Easy | [Solution](Easy/non-profitable-drugs.sql)
+| CVS Health | [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) | Easy | [Solution](Easy/total-drugs-sales.sql)
 
 
 <br>
