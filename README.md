@@ -43,7 +43,9 @@ The description of each column in the table below is given as follows:
 | Visa | [Apple Pay Volume](https://datalemur.com/questions/apple-pay-volume) | Easy | [Solution](Easy/apple-pay-volume.sql)
 | Facebook | [App Click-through Rate (CTR)](https://datalemur.com/questions/sql-app-ctr) | Easy | [Solution](Easy/sql-app-ctr.sql)
 | TikTok | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | Easy | [Solution](Easy/second-day-confirmation.sql)
-| JPMorgan Chase | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) | Easy | [Solution](Easy/cards-issued-difference.sql)
+| UnitedHealth | [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers) | Easy | [Solution](Easy/frequent-callers.sql)
+| UnitedHealth | [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | Easy | [Solution](Easy/uncategorized-calls-percentage.sql)
+
 
 <br>
 
