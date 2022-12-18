@@ -78,6 +78,7 @@ The description of each column in the table below is given as follows:
 | Amazon | [User Shopping Sprees](https://datalemur.com/questions/amazon-shopping-spree) | Medium | [Solution](Medium/amazon-shopping-spree.sql)
 | CVS Health | [Pharmacy Analytics (Part 4)](https://datalemur.com/questions/top-drugs-sold) | Medium | [Solution](Medium/top-drugs-sold.sql)
 | Alibaba | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode) | Medium | [Solution](Medium/alibaba-compressed-mode.sql)
+| Verizon | [International Call Percentage](https://datalemur.com/questions/international-call-percentage) | Medium | [Solution](Medium/international-call-percentage.sql)
 
 
 <br>
