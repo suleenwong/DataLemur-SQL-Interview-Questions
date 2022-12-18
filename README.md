@@ -79,6 +79,7 @@ The description of each column in the table below is given as follows:
 | CVS Health | [Pharmacy Analytics (Part 4)](https://datalemur.com/questions/top-drugs-sold) | Medium | [Solution](Medium/top-drugs-sold.sql)
 | Alibaba | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode) | Medium | [Solution](Medium/alibaba-compressed-mode.sql)
 | Verizon | [International Call Percentage](https://datalemur.com/questions/international-call-percentage) | Medium | [Solution](Medium/international-call-percentage.sql)
+| JPMorgan Chase | [Card Launch Success](https://datalemur.com/questions/card-launch-success) | Medium | [Solution](Medium/card-launch-success.sql)
 
 
 <br>
