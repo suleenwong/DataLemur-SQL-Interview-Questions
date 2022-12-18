@@ -76,7 +76,8 @@ The description of each column in the table below is given as follows:
 | Amazon | [Cumulative Purchases by Product Type](https://datalemur.com/questions/sql-purchasing-activity) | Medium | [Solution](Medium/sql-purchasing-activity.sql)
 | Adobe | [Photoshop Revenue Analysis](https://datalemur.com/questions/photoshop-revenue-analysis) | Medium | [Solution](Medium/photoshop-revenue-analysis.sql)
 | Amazon | [User Shopping Sprees](https://datalemur.com/questions/amazon-shopping-spree) | Medium | [Solution](Medium/amazon-shopping-spree.sql)
-| CVS Health | [Pharmacy Analytics (Part 4)](https://datalemur.com/questions/top-drugs-sold) | Easy | [Solution](Medium/top-drugs-sold.sql)
+| CVS Health | [Pharmacy Analytics (Part 4)](https://datalemur.com/questions/top-drugs-sold) | Medium | [Solution](Medium/top-drugs-sold.sql)
+| Alibaba | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode) | Medium | [Solution](Medium/alibaba-compressed-mode.sql)
 
 
 <br>
