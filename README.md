@@ -82,6 +82,7 @@ The description of each column in the table below is given as follows:
 | JPMorgan Chase | [Card Launch Success](https://datalemur.com/questions/card-launch-success) | Medium | [Solution](Medium/card-launch-success.sql)
 | Microsoft | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer) | Medium | [Solution](Medium/supercloud-customer.sql)
 | Walmart | [Frequently Purchased Pairs](https://datalemur.com/questions/frequently-purchased-pairs) | Medium | [Solution](Medium/frequently-purchased-pairs.sql)
+| Walmart | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases) | Medium | [Solution](Medium/histogram-users-purchases.sql)
 
 
 <br>
