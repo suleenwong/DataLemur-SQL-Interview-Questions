@@ -97,5 +97,6 @@ The description of each column in the table below is given as follows:
 | Airbnb | [Matching Rental Amenities](https://datalemur.com/questions/sql-bad-experience) | Hard | [Solution](Hard/sql-bad-experience.sql)
 | Stripe | [Repeated Payments](https://datalemur.com/questions/repeated-payments) | Hard | [Solution](Hard/repeated-payments.sql)
 | McKinsey | [3-Topping Pizzas](https://datalemur.com/questions/pizzas-topping-cost) | Hard | [Solution](Hard/pizzas-topping-cost.sql)
+| Amazon | [Maximize Prime Item Inventory](https://datalemur.com/questions/prime-warehouse-storage) | Hard | [Solution](Hard/prime-warehouse-storage.sql)
 
 
